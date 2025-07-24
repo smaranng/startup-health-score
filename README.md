@@ -123,6 +123,10 @@ streamlit run streamlit_app.py
   <img src="streamlit_ui_outputs/all_startups.png" width="400" alt="All Startups">
   <img src="streamlit_ui_outputs/top10.png" width="400" alt="Top 10">
   <img src="streamlit_ui_outputs/bottom10.png" width="400" alt="Bottom 10">
+  <img src="streamlit_ui_outputs/score.png" width="400" alt="Scores"> 
+  <img src="streamlit_ui_outputs/top20.png" width="400" alt="Top 20">
+<img src="streamlit_ui_outputs/heatmap.png" width="400" alt="Heatmap">
+
 </p>
 
 ---
