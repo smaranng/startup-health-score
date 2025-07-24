@@ -126,7 +126,7 @@ streamlit run streamlit_app.py
   <img src="streamlit_ui_outputs/score.png" width="400" alt="Scores"> 
   <img src="streamlit_ui_outputs/top20.png" width="400" alt="Top 20">
 <img src="streamlit_ui_outputs/heatmap.png" width="400" alt="Heatmap">
-
+<img src="streamlit_ui_outputs/download.png" width="400" alt="Download">
 </p>
 
 ---
