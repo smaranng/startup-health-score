@@ -79,7 +79,7 @@ Startups with lower performance metrics and high burn rates are ranked lower.
 <p align="center">
   <img src="outputs/score_distribution.png" width="400" alt="Score Distribution">
   <img src="outputs/top_bottom_bar_chart.png" width="400" alt="Top Scores">
-  <img src="outputs/correlation_heatmap.png" width="400" alt="Top Scores">
+  <img src="outputs/correlation_heatmap.png" width="400" alt="Correlation">
 
 </p>
 
@@ -98,7 +98,7 @@ To validate the scoring formula, a **Random Forest model** was trained.
 ### 🎯 Feature Importance (Random Forest)
 
 <p align="center">
-  <img src="outputs/feature_importance.png" width="400" alt="Top Scores">
+  <img src="outputs/feature_importance.png" width="400" alt="Feature Importance">
 </p>
 
 ---
@@ -120,7 +120,9 @@ streamlit run streamlit_app.py
 * 📥 Download final scores as CSV
 
 <p align="center">
-  <img src="streamlit_ui_outputs/all_startups.png" width="400" alt="Top Scores">
+  <img src="streamlit_ui_outputs/all_startups.png" width="400" alt="All Startups">
+  <img src="streamlit_ui_outputs/top10.png" width="400" alt="Top 10">
+  <img src="streamlit_ui_outputs/bottom10.png" width="400" alt="Bottom 10">
 </p>
 
 ---
