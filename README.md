@@ -120,7 +120,7 @@ streamlit run streamlit_app.py
 * 📥 Download final scores as CSV
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/startup-scoring/main/outputs/streamlit_preview.png" width="600">
+  <img src="streamlit_ui_outputs/all_startups.png" width="400" alt="Top Scores">
 </p>
 
 ---
